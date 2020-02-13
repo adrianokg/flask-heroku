@@ -3,12 +3,10 @@
 url = "https://pypi.python.org/simple"
 verify_ssl = true
 
-
 [packages]
 
 Flask = "*"
-flask-restful = "*"
 
 [requires]
 
-python_version = "3.7"
+python_version = "3.8"
