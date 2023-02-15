@@ -9,7 +9,7 @@ verify_ssl = true
 flask = "*"
 flask-restplus = "*"
 flask_sqlalchemy = "*"
-werkzeug = "==0.16.1"
+werkzeug = "==2.2.3"
 
 
 [requires]
